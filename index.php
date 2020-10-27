@@ -17,7 +17,7 @@
         }
        
     </style>
-    <title>Welcome to iDiscuss - Coding Forums</title>
+    <title>Welcome to Dailysolution - Coding Forums</title>
 </head>
 
 <body>
